@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://czohev.github.io/ogj/sitemap.ogj.gz
